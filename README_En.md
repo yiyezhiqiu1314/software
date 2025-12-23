@@ -8,15 +8,15 @@
 
 | Total Repos | Categories | Last Update | Active in 1d | Active in 2-7d | Active in 8-15d | Active in 16-30d |
 | ----------- | ---------- | ----------- | ------------ | -------------- | --------------- | ---------------- |
-| 7 | 7 | 2025-12-23 | 2 ([douyin_downloader](https://github.com/testusyd/douyin_downloader), [SPlayer](https://github.com/imsyy/SPlayer)) | 1 ([wechatDownload](https://github.com/qiye45/wechatDownload)) | 2 ([PixivFlow](https://github.com/zoidberg-xgd/PixivFlow), [ytDownloader](https://github.com/aandrew-me/ytDownloader)) | 0 (无) |
+| 7 | 7 | 2025-12-23 | 2 ([douyin_downloader](https://github.com/testusyd/douyin_downloader), [SPlayer](https://github.com/imsyy/SPlayer)) | 1 ([wechatDownload](https://github.com/qiye45/wechatDownload)) | 1 ([ytDownloader](https://github.com/aandrew-me/ytDownloader)) | 1 ([PixivFlow](https://github.com/zoidberg-xgd/PixivFlow)) |
 
-## 🎨 Pixiv works download
+## 🎨 Pixiv Portfolio Download
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
-| [PixivFlow](https://github.com/zoidberg-xgd/PixivFlow) | Intelligent Pixiv Automation Downloader | [zoidberg-xgd/PixivFlow](https://github.com/zoidberg-xgd/PixivFlow) | 4 | 0 | 2025-12-07 | No release | GNU General Public License v3.0 |
+| [PixivFlow](https://github.com/zoidberg-xgd/PixivFlow) | Intelligent Pixiv Automation Downloader \| Intelligent Pixiv Automation Downloader | [zoidberg-xgd/PixivFlow](https://github.com/zoidberg-xgd/PixivFlow) | 4 | 0 | 2025-12-07 | No release | GNU General Public License v3.0 |
 
-## 📥 Download software
+## 📥 Download Software
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
@@ -26,27 +26,27 @@
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
-| [wechatDownload](https://github.com/qiye45/wechatDownload) | WeChat public account article batch download tool, supports comments, collection downloads, supports saving html/mhtml/md/pdf/docx files, and saves images, videos, and audio files in articles | [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) | 6191 | 627 | 2025-12-20 | [4.1](https://github.com/qiye45/wechatDownload/releases/tag/4.1) | No license |
+| [wechatDownload](https://github.com/qiye45/wechatDownload) | Batch download tool for articles on Weixin Official Accounts supports comments and collection downloads, supports saving html/mhtml/md/pdf/docx files, and saves pictures, videos, and audio files in articles | [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) | 6191 | 627 | 2025-12-20 | [4.1](https://github.com/qiye45/wechatDownload/releases/tag/4.1) | No license |
 
-## 📱 Douyin works download
-
-| Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
-| --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
-| [douyin_download](https://github.com/whywynwmx/douyin_download) | Unwatermarked videos can be extracted for downloading TikTok | [whywynwmx/douyin_download](https://github.com/whywynwmx/douyin_download) | 4 | 2 | 2025-11-11 | No release | No license |
-
-## 🎁 Douyin lucky bag grabbing tool
+## 📱 TikTok Download
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
-| [douyin_downloader](https://github.com/testusyd/douyin_downloader) | Shake the sound of the blessing bag twisting machine, shake the sound to rob the blessing bag tool, written in VC after work, the function also includes some other small functions, shake the sound without watermark video downloader, shake the sound studio recording downloader, shake the sound batch cancel attention to the off-take device | [testusyd/douyin_downloader](https://github.com/testusyd/douyin_downloader) | 614 | 50 | 2025-12-23 | [抖音](https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3) | No license |
+| [douyin_download](https://github.com/whywynwmx/douyin_download) | You can extract and download Douyin videos without watermarks | [whywynwmx/douyin_download](https://github.com/whywynwmx/douyin_download) | 4 | 2 | 2025-11-11 | No release | No license |
 
-## 🗑️ Software Uninstallation
+## 🎁 TikTok Fortune Seizing Bag Tool
+
+| Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
+| --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
+| [douyin_downloader](https://github.com/testusyd/douyin_downloader) | Douyin lucky bag gashapon machine, Douyin lucky bag grabbing tool, written in VC++ in my spare time, the function also includes some other small functions, Douyin watermark-free video downloader, Douyin live room recording downloader, Douyin batch unfollow remover | [testusyd/douyin_downloader](https://github.com/testusyd/douyin_downloader) | 614 | 50 | 2025-12-23 | [抖音](https://github.com/testusyd/douyin_downloader/releases/tag/%E6%8A%96%E9%9F%B3) | No license |
+
+## 🗑️ 软件卸载
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
 | [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. | [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | 16812 | 742 | 2025-08-14 | [v5.9](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/tag/v5.9) | Apache License 2.0 |
 
-## 🎶 Music Player Songs Download
+## 🎶 Music player song download
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
@@ -55,5 +55,5 @@
 
 ---
 
-**Sync Time**: 2025-12-23 17:08:18
+**Sync Time**: 2025-12-23 17:53:23
 **Auto Sync**: Using GitHub Actions for regular updates

@@ -8,7 +8,7 @@
 
 | 总仓库数 | 分类数 | 最近更新 | 1天内活跃 | 2-7天内活跃 | 8-15天内活跃 | 16-30天内活跃 |
 | ---- | --- | ---- | ----- | ------- | -------- | --------- |
-| 7 | 7 | 2025-12-23 | 2 ([douyin_downloader](https://github.com/testusyd/douyin_downloader), [SPlayer](https://github.com/imsyy/SPlayer)) | 1 ([wechatDownload](https://github.com/qiye45/wechatDownload)) | 2 ([PixivFlow](https://github.com/zoidberg-xgd/PixivFlow), [ytDownloader](https://github.com/aandrew-me/ytDownloader)) | 0 (无) |
+| 7 | 7 | 2025-12-23 | 2 ([douyin_downloader](https://github.com/testusyd/douyin_downloader), [SPlayer](https://github.com/imsyy/SPlayer)) | 1 ([wechatDownload](https://github.com/qiye45/wechatDownload)) | 1 ([ytDownloader](https://github.com/aandrew-me/ytDownloader)) | 1 ([PixivFlow](https://github.com/zoidberg-xgd/PixivFlow)) |
 
 ## 🎨 Pixiv作品下载
 
@@ -55,5 +55,5 @@
 
 ---
 
-**同步时间**: 2025-12-23 17:08:18
+**同步时间**: 2025-12-23 17:53:23
 **自动同步**: 使用GitHub Actions定期更新
